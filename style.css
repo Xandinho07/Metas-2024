@@ -1,4 +1,17 @@
-body{
+:root{
+    --cor-de-fundo:#000000;
+    --verde:#0e5301;
+    --branco:#FFFFFF;
+    --botao-ativo:#1200d8;
+    --botao-inativo: #b6f705;
+    --texto-de-fundo: #5e6278;
+}
+
+
+
+
+
+.body{
 background-color:black;
 color: green;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -13,4 +26,8 @@ text-align: center;
     border-radius: 10px;
     margin: 50px;
 
+}
+.Conteudo-principal{
+    display: flex;
+    justify-content: center;
 }

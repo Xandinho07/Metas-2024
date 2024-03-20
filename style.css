@@ -1,4 +1,4 @@
-:root{
+                                       :root{
     --cor-de-fundo:#000000;
     --verde:#0e5301;
     --branco:#ffffff;
@@ -38,4 +38,8 @@ text-align: center;
 width: 20%;
 height:250px ;
 
+}
+.meta{
+    display:inline;
+    
 }

@@ -40,6 +40,6 @@ height:250px ;
 
 }
 .meta{
-    display:inline;
-    
+    display: inline-flex;
+    padding: 20px;
 }
